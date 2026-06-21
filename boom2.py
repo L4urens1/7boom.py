@@ -5,7 +5,7 @@ import colorama
 from colorama import Back,Style,Fore
 colorama.init(autoreset=True)
 
-num = 2
+num = 1
 
 next = "next"
 next_bold = f"{Fore.BLACK}{Back.WHITE}next{Back.BLACK}"
